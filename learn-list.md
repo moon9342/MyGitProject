@@ -2,4 +2,5 @@
 2. ECMAScript
 3. Git, GitHub
 4. Vue.js
-5. MAchine Learning
+5. Flask
+6. MAchine Learning
